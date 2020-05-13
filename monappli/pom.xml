@@ -108,7 +108,7 @@
           
   <scm>
     <connection>scm:git:https://github.com/heiwanasenshi/tp</connection>
-    <developerConnection>scm:git:C:\Data\CI\Git\depot-multimod</developerConnection>
+    <developerConnection>scm:git:https://github.com/heiwanasenshi/tp</developerConnection>
     <url>https://github.com/heiwanasenshi/tp</url>
   </scm>
   
